@@ -1,10 +1,10 @@
 <form action="action_page.php">
   <div class="container">
-    <h1> Automatic Build done DevOps Engineer Mudassir Syed</h1>
+    <h1> I am Shaikh Jaweed Shaikh Shamsheer a DevOps Engineer</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
-    <label for="Name"><b>Enter Correct Name</b></label>
+    <label for="Name"><b>DevOps Engineer Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
