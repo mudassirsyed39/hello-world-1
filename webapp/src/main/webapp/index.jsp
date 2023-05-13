@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Happy Learning. Good Bey from Shaikh Jaweed DevOps Engineer </h1>
+   <h1> Thankyou, Happy Learning. Good Bey from Shaikh Jaweed DevOps Engineer trained by Mudassir Syed </h1>
 
   
 </form>
